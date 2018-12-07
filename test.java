@@ -42,6 +42,7 @@ public class test extends UiAutomatorTestCase{
 //		getUiDevice().click(290, 742);
 		
 		getUiDevice().pressHome();
+		System.out.println("这个版本没有添加uiautomator版本");
 	}
 	public static void main(String[] args) {
 //		UiAutomatorTool tool=new UiAutomatorTool("UiTest1", "com.android.test", "test", "1");
